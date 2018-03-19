@@ -10,12 +10,16 @@
 
 2.adb以及相应的环境变量
 
-### [Python 3](https://www.python.org/downloads/release/python-364/)
+#### [1.Python 3下载](https://www.python.org/downloads/release/python-364/)
 
-### [adb以及相应环境](http://adbshell.com/downloads)
+#### [2.adb环境下载](http://adbshell.com/downloads)
 
 
 需要先将手机打开开发者调试模式
+
+然后打开命令提示窗 输入 adb devices 查看是否有设备
+
+
 
 
 
