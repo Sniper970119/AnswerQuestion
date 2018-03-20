@@ -3,9 +3,9 @@
 from aip import AipOcr
 
 """ 你的 APPID AK SK """
-APP_ID = '10564989'
-API_KEY = 'xnOIoKcX44zUxYuca6qComZQ'
-SECRET_KEY = 'UOIp0fMt3YQSiR6jjsf875td3eZEiw30'
+APP_ID = 'xxxxx'
+API_KEY = 'xxxxxxxxxxxxxxxx'
+SECRET_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 client = AipOcr(APP_ID, API_KEY, SECRET_KEY)
 
